@@ -9,6 +9,7 @@ import surgeImg from '@/../public/images/surge.png';
 import portfolioImg from '@/../public/images/portfolio.png';
 import pizzatimeImg from '@/../public/images/pizzatime.png';
 import ranacartImg from '@/../public/images/ranacart.png';
+import campusexpressImg from '@/../public/images/campusexpress.png';
 import { BookIcon, BriefcaseBusinessIcon } from 'lucide-react';
 
 export const links = [
@@ -85,6 +86,19 @@ export const projectsData = [
     ],
     imageUrl: xbeatImg,
     link: 'https://xbeat-rana.vercel.app/',
+  },
+  {
+    title: 'Campusexpress',
+    description: `Developed a full-time functional website for my current company "Campusexpress", where users can unlock seamless logistics solutions, book parcels securely for efficient transportation and delivery.`,
+    tags: [
+      'React',
+      'JavaScript',
+      'Framer Motion',
+      'Cloudinary',
+      'React Email',
+    ],
+    imageUrl: campusexpressImg,
+    link: 'https://campus-express-rho.vercel.app/',
   },
   {
     title: 'Portfolio',
