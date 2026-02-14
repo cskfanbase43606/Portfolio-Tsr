@@ -1,10 +1,10 @@
 import React from 'react';
 
 import campwithusImg from '@/../public/images/camp-with-us.png';
-import carcatalogImg from '@/../public/images/car-catalog.png';
+// import carcatalogImg from '@/../public/images/car-catalog.png';
 import xbeatImg from '@/../public/images/xbeat.png';
 import projectmanagementImg from '@/../public/images/project-management.png';
-import reactfoodImg from '@/../public/images/react-food.png';
+// import reactfoodImg from '@/../public/images/react-food.png';
 import surgeImg from '@/../public/images/surge.png';
 import portfolioImg from '@/../public/images/portfolio.png';
 import pizzatimeImg from '@/../public/images/pizzatime.png';
